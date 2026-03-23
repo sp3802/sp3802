@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sp3802
+- 👋 Hi, I’m @Shikha
 - 👀 I’m interested in ...coding
 - 🌱 I’m currently learning ...Java
 - 💞️ I’m looking to collaborate on ...Java project
